@@ -3,7 +3,7 @@
 <p align="justify" width="200">
 Welcome to my GitHub!
 </br></br>
-I'm Borhan, a full stack web developer specializing in the MERN stack. Currently, I'm expanding my skill set by learning Next.js. With a strong foundation in MongoDB, Express.js, React.js, and Node.js, I'm passionate about building robust and user-friendly web applications. Collaboration and problem-solving drive me, and I thrive in team environments. I prioritize code quality and maintainability, ensuring clean, modular, and well-documented code. Exploring my GitHub repositories, you'll find projects reflecting my expertise and dedication to continuous learning. I'm always open to new opportunities and collaborations, so feel free to reach out. Let's connect and work together on meaningful projects that make a difference. 
+I'm a full stack web developer specializing in the MERN stack. Currently, I'm expanding my skill set by learning Next.js. With a strong foundation in MongoDB, Express.js, React.js, and Node.js, I'm passionate about building robust and user-friendly web applications. Collaboration and problem-solving drive me, and I thrive in team environments. I prioritize code quality and maintainability, ensuring clean, modular, and well-documented code. Exploring my GitHub repositories, you'll find projects reflecting my expertise and dedication to continuous learning. I'm always open to new opportunities and collaborations, so feel free to reach out. Let's connect and work together on meaningful projects that make a difference. 
 </br> </br>
 Thank you for visiting my GitHub profile, and I look forward to connecting with you!
 </p>
